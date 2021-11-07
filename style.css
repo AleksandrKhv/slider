@@ -1,0 +1,11 @@
+.sid_slider {
+    max-width: 50%;
+    margin: auto;
+    padding: 100px;
+    text-align: center;
+}
+
+.sid_slider .img_slider {
+    width: 60%;
+    height: 200px;
+}
